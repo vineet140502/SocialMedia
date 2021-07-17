@@ -1,6 +1,6 @@
 # SocialMedia
 ## A fully functional social networking app created with django development frame.
-![LOGIN PAGE](/media/login_page.png)
+![LOGIN PAGE](/media/login.png)
 ### The user login page asks the user for his username and password and using django auth library checks if the user exists.The login page also has the option too redirect to the register page for new users and forgot password option for users who forgot their password.
 ![HOME_PAGE](/media/home_page.png)
 ### The home page presents to the user list of posts made by him and his friends with the latest post at the top.Each page contains 10 posts.
