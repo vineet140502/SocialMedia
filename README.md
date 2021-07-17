@@ -22,6 +22,11 @@
 
 - The user login page asks the user for his/her username and password and using django auth library checks if the user exists.
 - The login page also has the option too redirect to the register page for new users and forgot password option for users who forgot their password.
+## User register page
+
+![REGISTER PAGE](/media/register.png)
+
+- The user register apge uses the django  *user creation forms* and asks a new user for its username,email,password and creates a profile for them.
 
 
 ## Home page 
@@ -41,7 +46,7 @@
 - It shows the user the friend requests sent and received by him/her with the option of accepting or deleting the requests.
 
 
-##Friends suggestion system
+## Friends suggestion system
 
 ![Add new friends page](/media/addnewfreinds.png)
 
