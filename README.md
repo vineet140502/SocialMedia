@@ -1,2 +1,5 @@
-# Social ## A group project under CSEA
+# SocialMedia
+## A fully functions social networking app created with django development frame.
+
+
                                 
