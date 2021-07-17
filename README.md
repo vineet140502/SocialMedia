@@ -1,5 +1,23 @@
 # SocialMedia
 ## A fully functional social networking app created with django development frame.
+
+## Installation
+
+#### Cloning the repository:
+
+- Clone the repository using `git clone https:/https://github.com/KartikVerma044/SocialMedia.git`.
+
+#### Installing dependencies:
+
+- Run `pip install django`
+
+## Starting the server:
+
+- Run `python manage.py runserver`.
+- Open localhost to view it in the browser.
+
+
+
 ![LOGIN PAGE](/media/login.png)
 ### The user login page asks the user for his/her username and password and using django auth library checks if the user exists.The login page also has the option too redirect to the register page for new users and forgot password option for users who forgot their password.
 ![HOME_PAGE](/media/home_page.png)
