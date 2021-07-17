@@ -1,3 +1,2 @@
-                                                                        # SocialMedia
-                                                                        ## A group project under CSEA
+# Social ## A group project under CSEA
                                 
