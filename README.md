@@ -54,9 +54,17 @@
 
 ## Friends suggestion system
 
-![Add new friends page](/media/addnewfreinds.png)
+![Add new friends page](/media/addnewfriends.png)
 
 - The add new friends page suggests the user a list of users with whom they share a mutual friend and some random users as well.It acts as a source of recommendation using which the user can make new friends.
+
+_This project was built under the CSEA by_
+
+- Akshat Arun
+- Harshit Sureka
+- Kartik Verma
+- Mesharya M Choudhary
+- Vineet Agarwal
 
 
                                 
