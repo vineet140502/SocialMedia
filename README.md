@@ -36,6 +36,12 @@
 - The user gets the option of liking and unliking every post and also of seeing the users who liked a particular post.
 - Using the timezone class of django every post carries with the itself the information of when it was created.
 
+## Liked users list 
+
+![liked list](/media/userswholiked.png)
+
+-On clicking on the users who liked option, it provides us with a list of all the users who liked a certain post with the option of sending them friend requests.
+
 ## User profile page
 
 ![USER PROFILE](/media/profile_page.png)
