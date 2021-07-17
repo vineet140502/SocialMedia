@@ -40,7 +40,7 @@
 
 ![liked list](/media/userwholiked.png)
 
--On clicking on the users who liked option, it provides us with a list of all the users who liked a certain post with the option of sending them friend requests.
+- On clicking on the users who liked option, it provides us with a list of all the users who liked a certain post with the option of sending them friend requests.
 
 ## User profile page
 
