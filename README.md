@@ -34,9 +34,9 @@
 ![USER PROFILE](/media/profile_page.png)
 - #### The user profile page displays the information related to the user.
 
-- #####1.It shows the username and the posts made by the user.
-- #####2.It shows the number of friends the user has and on clicking it presents the list of friends.
-- #####3.It shows the user the friend requests sent and received by him/her with the option of accepting or deleting the requests.
+- It shows the username and the posts made by the user.
+- It shows the number of friends the user has and on clicking it presents the list of friends.
+- It shows the user the friend requests sent and received by him/her with the option of accepting or deleting the requests.
 ##Friends suggestion system
 
 ![Add new friends page](/media/addnewfreinds.png)
