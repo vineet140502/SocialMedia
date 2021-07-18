@@ -16,33 +16,35 @@
 - Run `python manage.py runserver`.
 - Open localhost to view it in the browser.
 
-## User login page
+## Features:
+
+### User login page
 
 ![LOGIN PAGE](/media/login.png)
 
 - The user login page asks the user for his/her username and password and using django auth library checks if the user exists.
 - The login page also has the option too redirect to the register page for new users and forgot password option for users who forgot their password.
-## User register page
+### User register page
 
 ![REGISTER PAGE](/media/register.png)
 
 - The user register apge uses the django  *user creation forms* and asks a new user for its username,email,password and creates a profile for them.
 
 
-## Home page 
+### Home page 
 
 ![HOME_PAGE](/media/home_page.png)
 - The home page presents to the user list of posts made by him/her and his/her friends with the latest post at the top.Each page contains 10 posts.
 - The user gets the option of liking and unliking every post and also of seeing the users who liked a particular post.
 - Using the timezone class of django every post carries with the itself the information of when it was created.
 
-## Liked users list 
+### Liked users list 
 
 ![liked list](/media/userwholiked.png)
 
 - On clicking on the users who liked option, it provides us with a list of all the users who liked a certain post with the option of sending them friend requests.
 
-## User profile page
+### User profile page
 
 ![USER PROFILE](/media/profile_page.png)
 - The user profile page displays the information related to the user.
@@ -52,7 +54,7 @@
 - It shows the user the friend requests sent and received by him/her with the option of accepting or deleting the requests.
 
 
-## Friends suggestion system
+### Friends suggestion system
 
 ![Add new friends page](/media/addnewfriends.png)
 
